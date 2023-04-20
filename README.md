@@ -19,7 +19,7 @@ My goal is to make an image classification model to be able to predict well if a
 
 After I checked to see if I balanced my dataset I did a train, validation, test split with all three class subfolders in each folder. After I did a train, test, validation split I went into the preprocessing and creating an image data generator. You can see my train, validation, test split in my base model folder
 
-Base model folder: 
+Base model folder: https://github.com/srinir301/Age-Multiclass-Classification/blob/main/Train%2C%20Validation%2C%20Test%20Split.ipynb
 
 # Data Preparation
 
@@ -129,3 +129,15 @@ The Reduce LROn Plateau reduces the learning rate if the accuracy of the model d
 
 4. Lastly, I want to try improving the accuracy of the model which I can probably do by trying a vgg16 model or add more and new layers
 
+
+# Directories to Files in Repo
+
+Presentation Slides: https://github.com/srinir301/Age-Multiclass-Classification/blob/main/Age%20Image%20Classification%20Project.pdf
+
+Image Data: https://github.com/srinir301/Age-Multiclass-Classification/tree/main/Face%20Pictures
+
+Final Notebook: https://github.com/srinir301/Age-Multiclass-Classification/blob/main/Final_Notebook.ipynb
+
+Train, Validation, Test, Split Through OS: https://github.com/srinir301/Age-Multiclass-Classification/blob/main/Train%2C%20Validation%2C%20Test%20Split.ipynb
+
+ReadMe: https://github.com/srinir301/Age-Multiclass-Classification/blob/main/README.md

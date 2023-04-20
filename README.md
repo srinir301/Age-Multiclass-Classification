@@ -21,6 +21,8 @@ After I checked to see if I balanced my dataset I did a train, validation, test 
 
 Base model folder: https://github.com/srinir301/Age-Multiclass-Classification/blob/main/Train%2C%20Validation%2C%20Test%20Split.ipynb
 
+Kaggle Data Link: https://www.kaggle.com/datasets/jangedoo/utkface-new
+
 # Data Preparation
 
 For my data preparation, I started out with a face detection because I wanted to crop only the face to get rid of the noise in the background and it makes the model less complex. I got an OpenCV with a face detection algorithm on GitHub which is a pretrained algroithm that will detect faces on my images and the link to the OpenCV on Github is below.
